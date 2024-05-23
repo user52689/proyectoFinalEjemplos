@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProyectoChanguito++" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProyectoChanguito++" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProyectoChanguito++" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Carrito/ArchivoItemCarrito.h" />
+		<Unit filename="Carrito/FuncionesItemCarrito.h" />
+		<Unit filename="Carrito/ItemCarrito.h" />
+		<Unit filename="Cliente/ArchivoCliente.h" />
+		<Unit filename="Cliente/Cliente.h" />
+		<Unit filename="Cliente/FuncionesClientes.h" />
+		<Unit filename="Cliente/ReportesClientes.h" />
+		<Unit filename="DatosPersona.h" />
+		<Unit filename="Menus/MenuAdmin.h" />
+		<Unit filename="Menus/MenuConfiguracion.h" />
+		<Unit filename="Menus/MenuEmpleado.h" />
+		<Unit filename="Menus/MenuReportes.h" />
+		<Unit filename="Menus/subMenuClientes.h" />
+		<Unit filename="Menus/subMenuProductos.h" />
+		<Unit filename="Menus/subMenuProveedores.h" />
+		<Unit filename="Menus/subMenuUsuarios.h" />
+		<Unit filename="Menus/subMenuVentas.h" />
+		<Unit filename="Producto/ArchivoProducto.h" />
+		<Unit filename="Producto/FuncionesProductos.h" />
+		<Unit filename="Producto/Producto.h" />
+		<Unit filename="Producto/ReportesProducto.h" />
+		<Unit filename="Proveedor/ArchivoProveedor.h" />
+		<Unit filename="Proveedor/FuncionesProveedores.h" />
+		<Unit filename="Proveedor/Proveedor.h" />
+		<Unit filename="Proveedor/ReportesProveedores.h" />
+		<Unit filename="Recursos/recursos.h" />
+		<Unit filename="Recursos/rlutil.h" />
+		<Unit filename="Recursos/rlutilPlusPlus.h" />
+		<Unit filename="Usuario/ArchivoUsuario.h" />
+		<Unit filename="Usuario/FuncionesUsuario.h" />
+		<Unit filename="Usuario/Usuario.h" />
+		<Unit filename="Venta/ArchivoVentas.h" />
+		<Unit filename="Venta/FuncionesVentas.h" />
+		<Unit filename="Venta/ReportesVenta.h" />
+		<Unit filename="Venta/Venta.h" />
+		<Unit filename="claseDatos.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
