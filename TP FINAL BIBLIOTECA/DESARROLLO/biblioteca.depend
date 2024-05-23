@@ -1,0 +1,972 @@
+# depslib dependency file v1.0
+1698519697 source:e:\programacion utn\laboratorio 2\tp final\biblioteca\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"menuPrincipal.h"
+	"../clsMiembro.h"
+
+1666790797 e:\programacion utn\laboratorio 2\tp final\biblioteca\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698521408 e:\programacion utn\laboratorio 2\tp final\biblioteca\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuConfiguracion.h"
+
+1698519697 e:\programacion utn\laboratorio 2\tp final\biblioteca\menulibros.h
+
+1698520047 e:\programacion utn\laboratorio 2\tp final\biblioteca\menugeneros.h
+
+1698519131 e:\programacion utn\laboratorio 2\tp final\clsmiembro.h
+
+1698520824 e:\programacion utn\laboratorio 2\tp final\biblioteca\menuautores.h
+
+1698521059 e:\programacion utn\laboratorio 2\tp final\biblioteca\menumiembros.h
+
+1698521408 e:\programacion utn\laboratorio 2\tp final\biblioteca\menuconfiguracion.h
+
+1698864310 source:c:\users\teivol\downloads\biblioteca proyecto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"menuPrincipal.h"
+	"clsMiembro.h"
+
+1666790797 c:\users\teivol\downloads\biblioteca proyecto\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698521408 c:\users\teivol\downloads\biblioteca proyecto\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuConfiguracion.h"
+
+1698519697 c:\users\teivol\downloads\biblioteca proyecto\menulibros.h
+
+1698520047 c:\users\teivol\downloads\biblioteca proyecto\menugeneros.h
+
+1698520824 c:\users\teivol\downloads\biblioteca proyecto\menuautores.h
+
+1698865944 c:\users\teivol\downloads\biblioteca proyecto\menumiembros.h
+	"clsMiembro.h"
+
+1698521408 c:\users\teivol\downloads\biblioteca proyecto\menuconfiguracion.h
+
+1698865945 c:\users\teivol\downloads\biblioteca proyecto\clsmiembro.h
+
+1698864310 source:f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"menuPrincipal.h"
+	"clsMiembro.h"
+
+1666790797 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698521408 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuConfiguracion.h"
+
+1698519697 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\menulibros.h
+
+1698891444 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\menugeneros.h
+	"Clase Genero.h"
+
+1698891499 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\clase genero.h
+
+1698520824 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\menuautores.h
+
+1698865944 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\menumiembros.h
+	"clsMiembro.h"
+
+1698865945 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\clsmiembro.h
+
+1698521408 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto (1)\biblioteca proyecto\menuconfiguracion.h
+
+1698864310 source:c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"menuPrincipal.h"
+	"clsMiembro.h"
+
+1666790797 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698521408 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuConfiguracion.h"
+
+1698933817 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\menulibros.h
+	"clsLibro.h"
+
+1698933817 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\clslibro.h
+
+1698891444 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\menugeneros.h
+	"Clase Genero.h"
+
+1698933817 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\clase genero.h
+
+1698520824 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\menuautores.h
+
+1698865944 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\menumiembros.h
+	"clsMiembro.h"
+
+1698933817 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\clsmiembro.h
+
+1698521408 c:\users\teivol\downloads\biblioteca proyecto (1)\biblioteca proyecto\menuconfiguracion.h
+
+1698963180 source:f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698965067 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\clsfecha.h
+
+1698964204 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+
+1698933817 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\menulibros.h
+	"clsLibro.h"
+
+1698933817 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\clslibro.h
+
+1698962432 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\menugeneros.h
+	"clsGenero.h"
+
+1698965014 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\clsgenero.h
+
+1698520824 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\menuautores.h
+
+1698865944 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\menumiembros.h
+	"clsMiembro.h"
+
+1698936917 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\clsmiembro.h
+
+1698963169 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\menuprestamo.h
+	"clsPrestamo.h"
+
+1698965098 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\clsprestamo.h
+	"clsFECHA.h"
+
+1698521408 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto\biblioteca proyecto\menuconfiguracion.h
+
+1698963180 source:c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698965067 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\clsfecha.h
+
+1698964204 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+
+1698933817 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\menulibros.h
+	"clsLibro.h"
+
+1698933817 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\clslibro.h
+
+1698962432 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\menugeneros.h
+	"clsGenero.h"
+
+1698965014 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\clsgenero.h
+
+1699020518 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\menuautores.h
+	"clsAutor.h"
+
+1698865944 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\menumiembros.h
+	"clsMiembro.h"
+
+1698936917 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\clsmiembro.h
+
+1698963169 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\menuprestamo.h
+	"clsPrestamo.h"
+
+1698965098 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\clsprestamo.h
+	"clsFECHA.h"
+
+1698521408 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\menuconfiguracion.h
+
+1699021171 c:\users\admin\desktop\my stuff\classrooms\laboratorio ii\proyecto final\biblioteca prueba\biblioteca proyecto\biblioteca proyecto\clsautor.h
+
+1698963180 source:f:\users\ignacio\downloads\biblioteca proyecto v2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 f:\users\ignacio\downloads\biblioteca proyecto v2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698965067 f:\users\ignacio\downloads\biblioteca proyecto v2\clsfecha.h
+
+1698964204 f:\users\ignacio\downloads\biblioteca proyecto v2\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+
+1699031630 f:\users\ignacio\downloads\biblioteca proyecto v2\menulibros.h
+	"clsLibro.h"
+
+1698933817 f:\users\ignacio\downloads\biblioteca proyecto v2\clslibro.h
+
+1699031639 f:\users\ignacio\downloads\biblioteca proyecto v2\menugeneros.h
+	"clsGenero.h"
+
+1698965014 f:\users\ignacio\downloads\biblioteca proyecto v2\clsgenero.h
+
+1699031665 f:\users\ignacio\downloads\biblioteca proyecto v2\menuautores.h
+	"clsAutor.h"
+
+1699021171 f:\users\ignacio\downloads\biblioteca proyecto v2\clsautor.h
+
+1699031620 f:\users\ignacio\downloads\biblioteca proyecto v2\menumiembros.h
+	"clsMiembro.h"
+
+1698936917 f:\users\ignacio\downloads\biblioteca proyecto v2\clsmiembro.h
+
+1699031613 f:\users\ignacio\downloads\biblioteca proyecto v2\menuprestamo.h
+	"clsPrestamo.h"
+
+1699031340 f:\users\ignacio\downloads\biblioteca proyecto v2\clsprestamo.h
+	"clsFECHA.h"
+
+1699031598 f:\users\ignacio\downloads\biblioteca proyecto v2\menuconfiguracion.h
+
+1698963180 source:c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1698965067 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\clsfecha.h
+
+1699034546 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\menuprincipal.h
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+
+1699031630 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\menulibros.h
+	"clsLibro.h"
+
+1698933817 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\clslibro.h
+
+1699031639 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\menugeneros.h
+	"clsGenero.h"
+
+1698965014 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\clsgenero.h
+
+1699031665 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\menuautores.h
+	"clsAutor.h"
+
+1699021171 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\clsautor.h
+
+1699031620 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\menumiembros.h
+	"clsMiembro.h"
+
+1698936917 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\clsmiembro.h
+
+1699031613 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\menuprestamo.h
+	"clsPrestamo.h"
+
+1699034726 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\clsprestamo.h
+	"clsFECHA.h"
+
+1699034608 c:\users\teivol\downloads\biblioteca proyecto v3\biblioteca proyecto v3\menuconfiguracion.h
+
+1698963180 source:c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699277859 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\clsfecha.h
+
+1699275903 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\menuprincipal.h
+	"funcionesGlobales.h"
+	"menuLibros.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+
+1699275903 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\funcionesglobales.h
+
+1699276491 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\menulibros.h
+	"clsLibro.h"
+
+1699276491 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\clslibro.h
+
+1699031639 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\menugeneros.h
+	"clsGenero.h"
+
+1699275903 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\clsgenero.h
+
+1699031665 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\menuautores.h
+	"clsAutor.h"
+
+1699021171 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\clsautor.h
+
+1699031620 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\menumiembros.h
+	"clsMiembro.h"
+
+1699275903 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\clsmiembro.h
+
+1699276370 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\menuprestamo.h
+	"clsPrestamo.h"
+
+1699276491 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\clsprestamo.h
+	"clsFECHA.h"
+
+1699034608 c:\users\teivol\downloads\biblioteca proyecto v4\biblioteca proyecto v4\menuconfiguracion.h
+
+1698963180 source:f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699277859 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\clsfecha.h
+
+1699361080 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\menuprincipal.h
+	"declaraciones.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuLibros.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+	"funcionesGlobales.h"
+
+1699374187 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\funcionesglobales.h
+
+1699276491 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\menulibros.h
+	"clsLibro.h"
+
+1699359782 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\clslibro.h
+
+1699305256 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\menugeneros.h
+	"clsGenero.h"
+
+1699374630 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\clsgenero.h
+
+1699031665 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\menuautores.h
+	"clsAutor.h"
+
+1699365143 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\clsautor.h
+
+1699031620 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\menumiembros.h
+	"clsMiembro.h"
+
+1699275903 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\clsmiembro.h
+
+1699276370 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\menuprestamo.h
+	"clsPrestamo.h"
+
+1699374742 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\clsprestamo.h
+	"clsFECHA.h"
+
+1699034608 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\menuconfiguracion.h
+
+1699374157 f:\users\ignacio\desktop\clases tp final\biblioteca proyecto v5\biblioteca proyecto v4\declaraciones.h
+
+1699378053 source:c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699281284 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\clsfecha.h
+
+1699361080 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\menuprincipal.h
+	"declaraciones.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuLibros.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+	"funcionesGlobales.h"
+
+1699374157 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\declaraciones.h
+
+1699305256 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\menugeneros.h
+	"clsGenero.h"
+
+1699374630 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\clsgenero.h
+
+1699031665 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\menuautores.h
+	"clsAutor.h"
+
+1699365143 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\clsautor.h
+
+1699276491 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\menulibros.h
+	"clsLibro.h"
+
+1699359782 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\clslibro.h
+
+1699031620 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\menumiembros.h
+	"clsMiembro.h"
+
+1699388223 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\clsmiembro.h
+
+1699276370 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\menuprestamo.h
+	"clsPrestamo.h"
+
+1699374742 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\clsprestamo.h
+	"clsFECHA.h"
+
+1699034608 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\menuconfiguracion.h
+
+1699374187 c:\users\teivol\downloads\biblioteca proyecto v4 (1)\biblioteca proyecto v4\funcionesglobales.h
+
+1699378053 source:c:\users\teivol\desktop\tp final biblioteca\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\teivol\desktop\tp final biblioteca\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699281284 c:\users\teivol\desktop\tp final biblioteca\clsfecha.h
+
+1699455526 c:\users\teivol\desktop\tp final biblioteca\menuprincipal.h
+	"declaraciones.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuLibros.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+	"reportes.h"
+	"funcionesGlobales.h"
+
+1699380540 c:\users\teivol\desktop\tp final biblioteca\declaraciones.h
+
+1699305256 c:\users\teivol\desktop\tp final biblioteca\menugeneros.h
+	"clsGenero.h"
+
+1699374630 c:\users\teivol\desktop\tp final biblioteca\clsgenero.h
+
+1699454684 c:\users\teivol\desktop\tp final biblioteca\menuautores.h
+	"clsAutor.h"
+
+1699379643 c:\users\teivol\desktop\tp final biblioteca\clsautor.h
+
+1699276491 c:\users\teivol\desktop\tp final biblioteca\menulibros.h
+	"clsLibro.h"
+
+1699380168 c:\users\teivol\desktop\tp final biblioteca\clslibro.h
+
+1699031620 c:\users\teivol\desktop\tp final biblioteca\menumiembros.h
+	"clsMiembro.h"
+
+1699388223 c:\users\teivol\desktop\tp final biblioteca\clsmiembro.h
+
+1699276370 c:\users\teivol\desktop\tp final biblioteca\menuprestamo.h
+	"clsPrestamo.h"
+
+1699394775 c:\users\teivol\desktop\tp final biblioteca\clsprestamo.h
+	"clsFECHA.h"
+
+1699034608 c:\users\teivol\desktop\tp final biblioteca\menuconfiguracion.h
+
+1699394730 c:\users\teivol\desktop\tp final biblioteca\funcionesglobales.h
+
+1699455593 c:\users\teivol\desktop\tp final biblioteca\reportes.h
+
+1699475866 source:f:\users\ignacio\desktop\tp final\tp final biblioteca\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 f:\users\ignacio\desktop\tp final\tp final biblioteca\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699281284 f:\users\ignacio\desktop\tp final\tp final biblioteca\clsfecha.h
+
+1699455526 f:\users\ignacio\desktop\tp final\tp final biblioteca\menuprincipal.h
+	"declaraciones.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuLibros.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+	"reportes.h"
+	"funcionesGlobales.h"
+
+1699380540 f:\users\ignacio\desktop\tp final\tp final biblioteca\declaraciones.h
+
+1699478449 f:\users\ignacio\desktop\tp final\tp final biblioteca\menugeneros.h
+	"clsGenero.h"
+
+1699478624 f:\users\ignacio\desktop\tp final\tp final biblioteca\clsgenero.h
+
+1699482658 f:\users\ignacio\desktop\tp final\tp final biblioteca\menuautores.h
+	"clsAutor.h"
+
+1699482714 f:\users\ignacio\desktop\tp final\tp final biblioteca\clsautor.h
+
+1699476825 f:\users\ignacio\desktop\tp final\tp final biblioteca\menulibros.h
+	"clsLibro.h"
+
+1699477942 f:\users\ignacio\desktop\tp final\tp final biblioteca\clslibro.h
+
+1699476835 f:\users\ignacio\desktop\tp final\tp final biblioteca\menumiembros.h
+	"clsMiembro.h"
+
+1699477948 f:\users\ignacio\desktop\tp final\tp final biblioteca\clsmiembro.h
+
+1699476898 f:\users\ignacio\desktop\tp final\tp final biblioteca\menuprestamo.h
+	"clsPrestamo.h"
+
+1699477952 f:\users\ignacio\desktop\tp final\tp final biblioteca\clsprestamo.h
+	"clsFECHA.h"
+
+1699476702 f:\users\ignacio\desktop\tp final\tp final biblioteca\menuconfiguracion.h
+
+1699468755 f:\users\ignacio\desktop\tp final\tp final biblioteca\reportes.h
+
+1699482101 f:\users\ignacio\desktop\tp final\tp final biblioteca\funcionesglobales.h
+
+1699475866 source:c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699281284 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\clsfecha.h
+
+1699455526 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\menuprincipal.h
+	"declaraciones.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuLibros.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+	"reportes.h"
+	"funcionesGlobales.h"
+
+1699380540 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\declaraciones.h
+
+1699478449 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\menugeneros.h
+	"clsGenero.h"
+
+1699478624 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\clsgenero.h
+
+1699482658 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\menuautores.h
+	"clsAutor.h"
+
+1699494766 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\clsautor.h
+
+1699493892 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\menulibros.h
+	"clsLibro.h"
+
+1699497048 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\clslibro.h
+
+1699483397 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\menumiembros.h
+	"clsMiembro.h"
+
+1699497468 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\clsmiembro.h
+
+1699483547 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\menuprestamo.h
+	"clsPrestamo.h"
+
+1699486971 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\clsprestamo.h
+	"clsFECHA.h"
+
+1699497709 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\menuconfiguracion.h
+
+1699496963 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\reportes.h
+
+1699483958 c:\users\teivol\downloads\tp final biblioteca 4\tp final biblioteca\funcionesglobales.h
+
+1699475866 source:c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699281284 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\clsfecha.h
+
+1699455526 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\menuprincipal.h
+	"declaraciones.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuLibros.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+	"reportes.h"
+	"funcionesGlobales.h"
+
+1699380540 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\declaraciones.h
+
+1699478449 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\menugeneros.h
+	"clsGenero.h"
+
+1699531239 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\clsgenero.h
+
+1699482658 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\menuautores.h
+	"clsAutor.h"
+
+1699531239 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\clsautor.h
+
+1699530841 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\menulibros.h
+	"clsLibro.h"
+
+1699531239 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\clslibro.h
+
+1699483397 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\menumiembros.h
+	"clsMiembro.h"
+
+1699531239 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\clsmiembro.h
+
+1699483547 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\menuprestamo.h
+	"clsPrestamo.h"
+
+1699531239 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\clsprestamo.h
+	"clsFECHA.h"
+
+1699497919 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\menuconfiguracion.h
+
+1699531012 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\reportes.h
+
+1699483958 c:\users\teivol\downloads\biblioteca_grupo17\tp final biblioteca\funcionesglobales.h
+
+1699475866 source:c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"rlutil.h"
+	"clsFECHA.h"
+	"menuPrincipal.h"
+
+1666790797 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699281284 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\clsfecha.h
+
+1699455526 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\menuprincipal.h
+	"declaraciones.h"
+	"menuGeneros.h"
+	"menuAutores.h"
+	"menuLibros.h"
+	"menuMiembros.h"
+	"menuPrestamo.h"
+	"menuConfiguracion.h"
+	"reportes.h"
+	"funcionesGlobales.h"
+
+1699380540 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\declaraciones.h
+
+1699478449 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\menugeneros.h
+	"clsGenero.h"
+
+1699531771 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\clsgenero.h
+
+1699482658 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\menuautores.h
+	"clsAutor.h"
+
+1699531560 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\clsautor.h
+
+1699530841 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\menulibros.h
+	"clsLibro.h"
+
+1699532268 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\clslibro.h
+
+1699483397 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\menumiembros.h
+	"clsMiembro.h"
+
+1699531973 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\clsmiembro.h
+
+1699483547 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\menuprestamo.h
+	"clsPrestamo.h"
+
+1699532084 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\clsprestamo.h
+	"clsFECHA.h"
+
+1699497919 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\menuconfiguracion.h
+
+1699531012 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\reportes.h
+
+1699483958 c:\users\admin\desktop\my stuff\classrooms\tp final prog 2\tp 5\tp final biblioteca\funcionesglobales.h
+
